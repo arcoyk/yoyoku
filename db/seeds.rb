@@ -5,3 +5,4 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+Page.create(title: 'Cesar Sayoc, Mail Bombing Suspect', content: 'AVENTURA, Fla. — Cesar Sayoc Jr. was a volatile nobody desperate to become a somebody.')
